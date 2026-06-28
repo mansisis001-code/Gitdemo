@@ -2,7 +2,7 @@ package testcases;
 
 
 
-/*import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -22,6 +22,7 @@ public class FirstTest {
 		System.out.println("Page Title is: " + driver.getTitle());
 
 		driver.quit();
+		// now we learn how jenkins work UROMATICALLY
+		
 	}
 }
-*/
