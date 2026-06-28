@@ -21,7 +21,7 @@ public class FirstTest {
 
 		System.out.println("Page Title is: " + driver.getTitle());
 
-		driver.quit();
+		//driver.quit();
 		// now we learn how jenkins work UROMATICALLY
 		
 	}

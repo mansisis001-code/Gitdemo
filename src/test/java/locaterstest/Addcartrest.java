@@ -56,7 +56,7 @@ public class Addcartrest {
 		wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//button[text()='Proceed']"))).click();
 		
 
-		
+		// kya yrr sahi hogaaaa
 
 				
 	}
